@@ -6,3 +6,14 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Open an issue
 - Create a branch
 - Submit a pull request
+
+## Project Structure
+
+```text
+collaboration-demo/
+├── README.md
+├── app.txt
+├── .gitignore
+└── .github/
+    └── workflows/
+        └── ci.yml
