@@ -9,7 +9,6 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Project Structure
 
-```text
 collaboration-demo/
 ├── README.md
 ├── app.txt
